@@ -118,7 +118,7 @@ AirBnB 커버하기
 
 
 ## Event Storming 결과
-* MSAEz 로 모델링한 이벤트스토밍 결과:  http://www.msaez.io/#/storming/QtpQtDiH1Je3wad2QxZUJVvnLzO2/share/6f36e16efdf8c872da3855fedf7f3ea9
+* MSAEz 로 모델링한 이벤트스토밍 결과:  https://labs.msaez.io/#/storming/bjjILDCdbDV6g79R6na93SWK29E3/e52b0637612b3f8e2c55366db1eacf6e
 
 
 ### 이벤트 도출
